@@ -1,0 +1,21 @@
+.icon-user {
+    background: url("../../assets/user_1077063.png") no-repeat left;
+  }
+  .icon-mail {
+    background: url("../../assets/mail_4933342.png") no-repeat left;
+  }
+  .icon-team {
+    background: url("../../assets/teamwork_18414910.png") no-repeat left;
+  }
+  .icon-phone {
+    background: url("../../assets/phone-1.png") no-repeat left;
+  }
+  .icon-padlock {
+    background: url("../../assets/padlock.png") no-repeat left;
+  }
+  .icon {
+    padding-left: 30px;
+    background-size: 20px;
+    outline-offset: 3px;
+  }
+  
