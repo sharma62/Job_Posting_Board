@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "job posting board",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Suraj kumar sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
